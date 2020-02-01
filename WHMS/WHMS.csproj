@@ -155,6 +155,7 @@
     <Compile Include="Models\Client.cs" />
     <Compile Include="Models\CurrencyUnit.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Department.cs" />
     <Compile Include="Models\Draft.cs" />
     <Compile Include="Models\Employee.cs" />
     <Compile Include="Models\Group.cs" />
