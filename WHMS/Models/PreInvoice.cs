@@ -18,6 +18,8 @@ namespace WHMS.Models
         public Status Status { get; set; }
         public int TaxRate { get; set; }
         public int TotalPrice { get; set; }
+        public int InvoiceID { get; set; }
+        public Invoice Invoice { get; set; }
 
     }
 }
