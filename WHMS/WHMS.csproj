@@ -153,6 +153,7 @@
     <Compile Include="Models\Brand.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Client.cs" />
+    <Compile Include="Models\CurrencyUnit.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Draft.cs" />
     <Compile Include="Models\Employee.cs" />
